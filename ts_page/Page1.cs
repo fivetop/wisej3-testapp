@@ -52,6 +52,7 @@ namespace ts_page
 
 		}
 
+
         private void navigationBar1_SelectedItemChanged(object sender, EventArgs e)
         {
 			//AlertBox.Show ( e.ToString());
